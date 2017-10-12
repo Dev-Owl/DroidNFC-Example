@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">NFC POC</string>
+  <string name="info">ID:</string>
+  <string name="content">Current Content</string>
+  <string name="error_adapater">Something went wrong with the NFC Adapter!</string>
+  <string name="ready">Ready to scan</string>
+</resources>
